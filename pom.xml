@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aforces.biketrigger</groupId>
-	<artifactId>biketrigger</artifactId>
+	<artifactId>biketrigger-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>biketrigger</name>
 	<description>Demo project for Spring Boot</description>
